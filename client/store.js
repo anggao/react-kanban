@@ -10,7 +10,7 @@ import posts from './data/posts';
 
 // create an object from the default data
 const defaultState = {
-  post,
+  posts,
   comments
 };
 
